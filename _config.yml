@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Tea Field
 description: This is the GitHub home of Teemu Peltola.
+name: Teemu Peltola
+markdown: kramdown
